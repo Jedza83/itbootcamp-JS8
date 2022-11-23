@@ -1,0 +1,28 @@
+body {
+  background-color: salmon;
+}
+
+h2 {
+  text-align: center;
+  color: brown;
+}
+
+img {
+  border: 4px double darkred;
+}
+.obojeni_paragraf {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: rgb(102, 225, 31);
+  font-size: 24px;
+}
+#poseban {
+  color: rgb(248, 9, 105);
+}
+
+#poseban a {
+  color: red;
+}
+
+#poseban a:hover {
+  color: green;
+}
